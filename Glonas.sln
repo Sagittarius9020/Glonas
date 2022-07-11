@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glonas", "Glonas\Glonas.csproj", "{7A9659C3-22B4-413E-8B80-476B7EC2CC70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Glonas.Test", "Glonas.Test\Glonas.Test.csproj", "{97D7DB6D-CEB3-4750-93A6-007179D878B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A9659C3-22B4-413E-8B80-476B7EC2CC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9659C3-22B4-413E-8B80-476B7EC2CC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9659C3-22B4-413E-8B80-476B7EC2CC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9659C3-22B4-413E-8B80-476B7EC2CC70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D7DB6D-CEB3-4750-93A6-007179D878B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D7DB6D-CEB3-4750-93A6-007179D878B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D7DB6D-CEB3-4750-93A6-007179D878B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D7DB6D-CEB3-4750-93A6-007179D878B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AD90C7B-6365-4AD5-B4B4-A20A9D00EA6D}
+	EndGlobalSection
+EndGlobal
